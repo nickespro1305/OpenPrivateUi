@@ -45,9 +45,20 @@ cd release
 <h3> step2 </h3>
 
 now its time to do some configurations, first we need to **create a enviroment variable**
+#### 1
+<img src="https://github.com/nickespro1305/OpenPrivateUi/blob/main/scr/Captura1.PNG?raw=true">
 
+#### 2
 
+<img src="https://github.com/nickespro1305/OpenPrivateUi/blob/main/scr/Captura.PNG?raw=true">
 
+#### 3
+
+<img src="https://github.com/nickespro1305/OpenPrivateUi/blob/main/scr/Captura4.PNG?raw=true">
+
+#### 4
+
+<img src="https://github.com/nickespro1305/OpenPrivateUi/blob/main/scr/Captura3.PNG?raw=true">
 after that, reboot the computer
 
 when the computer reboot, open task manager

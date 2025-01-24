@@ -17,12 +17,12 @@
 <a id="installation"></a>  
 ---
 Make sure you have these settings on your server
-- **DISABLED IPV6**, go [here]() to find how you can disable it
+- **DISABLED IPV6**, go [here](https://youtu.be/xMfFgU3igkw) to find how you can disable it
 - **AT LEAST 8GB RAM**, the model requires at least 8GB, but i recommend **16GB**
-- **WSL2**, for docker support, you can find mor info [here]()
-- **VIRTUALIZATION ENABLED ON BIOS**, you can know how enable it [here]()
+- **WSL2**, for docker support, you can find mor info [here](https://youtu.be/AMlaEFaKG88)
+- **VIRTUALIZATION ENABLED ON BIOS**, you can know how enable it [here](https://youtu.be/LQIyowZMiY8)
 
-For install it, you need to download the release zip from [HERE]() it is fully tested on windows 11, but **may** can work on [WSL2]().
+For install it, you need to download the release zip from [HERE](https://youtu.be/LQIyowZMiY8) it is fully tested on windows 11, but **may** can work on [WSL2](https://youtu.be/AMlaEFaKG88).
 
 > [!IMPORTANT]
 > You will need to reboot the server many times to install this project
